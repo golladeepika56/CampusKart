@@ -45,8 +45,6 @@ App runs on `http://localhost:5173`.
 | Service | Used for | Get keys at |
 |---|---|---|
 | MongoDB Atlas | Database | https://www.mongodb.com/cloud/atlas |
-| Cloudinary | Image uploads | https://cloudinary.com |
-| Razorpay | Payments (test mode) | https://dashboard.razorpay.com/signup |
 | Gmail (App Password) | OTP + notification emails | Enable 2FA, then generate an App Password |
 
 ## Key flows implemented
